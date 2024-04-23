@@ -1,0 +1,31 @@
+Day 2:
+Responding with XML/JSON
+Spring Boot API + Hibernate + Spring Data JPA
+Discuss-Demo-Activity
+
+Day 3:
+Jax-RS
+CXF
+
+Day 4:
+Spring Data REST
+Swagger & OpenAPI
+Using Redis
+
+Day 5:
+JWT + Redis
+Intro to NodeJS
+
+Day 6:
+Cont. of NodeJS
+ExpressJS
+Feather JS
+
+Day 7:
+VueJS
+
+
+
+
+
+
